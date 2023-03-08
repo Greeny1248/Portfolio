@@ -41,8 +41,8 @@ export default function About() {
         </a>
       </section>
 
-      <div className="mx-auto flex px-10 md:flex-row flex-col items-center">
-        <p className="mb-8 leading-snug text-grey-200 flex  sm:text-3xl text-2xl mb-3 font-medium lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16">
+      <div className="flex justify-center px-20 ">
+        <p className="mb-8  text-grey-200 flex  sm:text-3xl text-2xl mb-3 font-medium lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16">
           Junior software developer with a passion for design, problem solving,
           efficiency, and creating beautiful projects. Strong foundation in
           fullstack development.

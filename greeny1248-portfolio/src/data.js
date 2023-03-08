@@ -52,12 +52,12 @@ export const socials = [
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/j-green1248/",
-    img: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+    img: "https://cdn-icons-png.flaticon.com/512/61/61109.png",
   },
   {
     name: "GitHub",
     link: "https://github.com/Greeny1248",
-    img: "https://cdn-icons-png.flaticon.com/512/61/61109.png",
+    img: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
   },
   {
     name: "CV",

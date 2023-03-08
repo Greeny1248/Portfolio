@@ -15,7 +15,7 @@ export default function Contact() {
         ))}
       </div>
       <h1 className="flex justify-center sm:text-4xl text-3xl font-medium title-font text-black mb-4">
-        Want to contact me? Get in touch above!
+        Want to contact me? Get in touch above or email me at... joshua.green1248@gmail.com
       </h1>
     </section>
   );
