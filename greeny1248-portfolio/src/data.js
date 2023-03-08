@@ -1,4 +1,3 @@
-
 export const projects = [
   {
     title: "Loop Lab",
@@ -33,7 +32,6 @@ export const projects = [
   },
 ];
 
-
 export const skills = [
   "JavaScript",
   "React",
@@ -58,12 +56,12 @@ export const socials = [
   },
   {
     name: "GitHub",
-    link: "https://www.linkedin.com/in/j-green1248/",
+    link: "https://github.com/Greeny1248",
     img: "https://cdn-icons-png.flaticon.com/512/61/61109.png",
   },
   {
     name: "CV",
-    link: "https://www.linkedin.com/in/j-green1248/",
+    link: "https://drive.google.com/file/d/1Rxh7mxbRkOR5z-KPZy8K-XVUlmFB41Tr/view?usp=share_link",
     img: "https://cdn-icons-png.flaticon.com/512/654/654141.png",
   },
   {

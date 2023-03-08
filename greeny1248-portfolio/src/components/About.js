@@ -11,11 +11,11 @@ export default function About() {
         />
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <div className="flex justify-center"></div>
-          <h1 className="title-font sm:text-6xl text-5xl mb-4 font-medium text-white justify right px-20">
-            Creative problem solver.
+          <h1 className="title-font sm:text-8xl text-7xl mb-7 font-medium text-white justify right px-20">
+            Creative <br></br> Problem <br></br> Solver.
             <br className="hidden lg:inline-block" />
             <section className="container flex">
-              <ul className="sm:text-4xl text-3xl mb-4 font-medium grid justify-center px-0">
+              <ul className="sm:text-3xl text-2xl mb-4 font-medium grid justify-center px-0">
                 <li>Intuitive</li>
                 <li>User-friendly</li>
                 <li>Aestheticly pleasing</li>
